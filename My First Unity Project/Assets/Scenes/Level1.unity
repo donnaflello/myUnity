@@ -1009,5 +1009,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 1188878690}
-  speed: 1
+  speed: 5
   jumpHeight: 500
